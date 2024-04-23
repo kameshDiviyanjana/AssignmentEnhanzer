@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+  .hline{
+
+     @apply lg:text-[30px] font-semibold   text-[#26262d]
+  }
+  .lined::before{
+
+    @apply   content-[''] block w-[120px] h-[2px] text-black absolute left-0 top-[50%] z-[-2]
+  }
+  .chngecolu:hover{
+
+    @apply bg-red-800  text-white
+  }
+  .icon{
+
+    @apply w-11 h-11 mt-3 text-white
+  }
+  .icon-div{
+    @apply lg:w-[400px] h-[500px]  bg-white shadow-xl py-6 px-6 relative rounded-xl mt-2
+  }
+  .htag{
+    @apply py-5 px-3 font-bold text-[15px] text-gray-800 
+  }
+  div{
+
+    @apply scroll-smooth
+  }
+  
+}
+.pink{
+  @apply text-pink-500
+}
+.bule{
+ 
+  @apply text-blue-800
+}
+.yellow{
+
+   @apply text-yellow-600
+}
+.ligth-blue{
+
+   @apply text-blue-500 
+}
+.ligth-green{
+
+  @apply  text-green-400
+}
+.puple{
+  @apply text-purple-700
+}
+.light-yeloow{
+
+  @apply text-yellow-500
+}

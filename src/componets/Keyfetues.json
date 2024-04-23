@@ -1,0 +1,63 @@
+[
+    {
+        "id" : "1",
+        "heder" : "Payment and Financial Accounts Integration",
+        "descripton" : "Integrate payment solutions and financial accounts to facilitate smooth transactions and financial management",
+        "colures" : "yellow",
+        "svgicon" : "M13.5 21v-7.5a.75.75 0 0 1 .75-.75h3a.75.75 0 0 1 .75.75V21m-4.5 0H2.36m11.14 0H18m0 0h3.64m-1.39 0V9.349M3.75 21V9.349m0 0a3.001 3.001 0 0 0 3.75-.615A2.993 2.993 0 0 0 9.75 9.75c.896 0 1.7-.393 2.25-1.016a2.993 2.993 0 0 0 2.25 1.016c.896 0 1.7-.393 2.25-1.015a3.001 3.001 0 0 0 3.75.614m-16.5 0a3.004 3.004 0 0 1-.621-4.72l1.189-1.19A1.5 1.5 0 0 1 5.378 3h13.243a1.5 1.5 0 0 1 1.06.44l1.19 1.189a3 3 0 0 1-.621 4.72M6.75 18h3.75a.75.75 0 0 0 .75-.75V13.5a.75.75 0 0 0-.75-.75H6.75a.75.75 0 0 0-.75.75v3.75c0 .414.336.75.75.75Z"
+    },
+    {
+        "id" : "2",
+        "heder" : "Multi-Channel Sales Management",
+        "descripton" : "Seamlessly integrate retail, eCommerce, and third-party platforms like UberEATS for a unified and efficient sales experience",
+        "colures" : "pink",
+        "svgicon" : "M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z"
+    },
+    {
+        "id" : "3",
+        "heder" : "Customer Loyalty Programs",
+        "descripton" : "Build and manage customer loyalty programs effortlessly, enhancing customer engagement and retention",
+        "colures" : "puple",
+        "svgicon" : "M16.5 3.75V16.5L12 14.25 7.5 16.5V3.75m9 0H18A2.25 2.25 0 0 1 20.25 6v12A2.25 2.25 0 0 1 18 20.25H6A2.25 2.25 0 0 1 3.75 18V6A2.25 2.25 0 0 1 6 3.75h1.5m9 0h-9"
+    },
+    {
+        "id" : "4",
+        "heder" : "End-to-End Automation",
+        "descripton" : "Streamline your restaurant's operations from procurement to real-time inventory management with our comprehensive cloud-based platform",
+        "colures" : "ligth-blue",
+        "svgicon" : "M16.5 3.75V16.5L12 14.25 7.5 16.5V3.75m9 0H18A2.25 2.25 0 0 1 20.25 6v12A2.25 2.25 0 0 1 18 20.25H6A2.25 2.25 0 0 1 3.75 18V6A2.25 2.25 0 0 1 6 3.75h1.5m9 0h-9"
+    }, {
+        "id" : "5",
+        "heder" : "Real-Time Data Accessibility",
+        "descripton" : "Empower your business with instant access to real-time data, allowing you to analyze performance across all locations and make informed decisions",
+        "colures" : "yellow",
+        "svgicon" : "M16.5 3.75V16.5L12 14.25 7.5 16.5V3.75m9 0H18A2.25 2.25 0 0 1 20.25 6v12A2.25 2.25 0 0 1 18 20.25H6A2.25 2.25 0 0 1 3.75 18V6A2.25 2.25 0 0 1 6 3.75h1.5m9 0h-9"
+    },{
+        "id" : "6",
+        "heder" : "Multi-Currency Support",
+        "descripton" : "Conduct transactions in multiple currencies, catering to the needs of diverse customer bases and ensuring a global reach",
+        "colures" : "ligth-blue",
+        "svgicon" : "M16.5 3.75V16.5L12 14.25 7.5 16.5V3.75m9 0H18A2.25 2.25 0 0 1 20.25 6v12A2.25 2.25 0 0 1 18 20.25H6A2.25 2.25 0 0 1 3.75 18V6A2.25 2.25 0 0 1 6 3.75h1.5m9 0h-9"
+    },{
+        "id" : "7",
+        "heder" : "Localization Features",
+        "descripton" : "Enjoy seamless usage from any location with localization features tailored to different regions, languages, and business environments",
+        "colures" : "ligth-green ",
+        "svgicon" : "M16.5 3.75V16.5L12 14.25 7.5 16.5V3.75m9 0H18A2.25 2.25 0 0 1 20.25 6v12A2.25 2.25 0 0 1 18 20.25H6A2.25 2.25 0 0 1 3.75 18V6A2.25 2.25 0 0 1 6 3.75h1.5m9 0h-9"
+    },
+    {
+        "id" : "8",
+        "heder" : "Centralized Management",
+        "descripton" : "Simplify daily operations with centralized management features, allowing for efficient oversight and control across all your restaurant locations",
+        "colures" : "bule ",
+        "svgicon" : "M16.5 3.75V16.5L12 14.25 7.5 16.5V3.75m9 0H18A2.25 2.25 0 0 1 20.25 6v12A2.25 2.25 0 0 1 18 20.25H6A2.25 2.25 0 0 1 3.75 18V6A2.25 2.25 0 0 1 6 3.75h1.5m9 0h-9"
+    },
+    {
+        "id" : "9",
+        "heder" : "Scalability",
+        "descripton" : "Unlike conventional software, our cloud-based solution easily scales with business growth, adapting to the changing needs of mid-sized food chains",
+        "colures" : "light-yeloow ",
+        "svgicon" : "M1021.02 731.408L938.734 580.11c-.128-.208-.096-.4-.224-.593l-5.872-10.143c-3.28-5.617-8.432-9.233-14.192-10.593c-5.696-1.408-11.985-.544-17.408 2.975l-9.84 6.336c-.193.113-.305.288-.497.416l-145.6 98.32c-10.88 7.008-14.416 21.68-7.936 32.913l6.544 7.2c6.48 11.184 21.265 11.647 32.161 4.64l87.04-59.184c-20.608 166-154.736 293.392-318.96 308.176v-641.6h128.048c17.664 0 32-14.336 32-32s-14.336-32-32-32h-129.44c-.24-.832-.448-1.664-.768-2.464c57.103-13.28 99.695-64.368 99.695-125.536c0-71.248-57.744-129.008-129.008-129.008c-71.248 0-128.992 57.744-128.992 129.008c0 60.817 42.112 111.664 98.736 125.28c-.336.88-.576 1.808-.848 2.72H351.997c-17.665 0-32 14.336-32 32s14.335 32 32 32H479.98v641.584c-164.176-14.784-298.16-142.128-318.816-308.112l86.944 59.12c10.88 7.008 25.664 6.544 32.144-4.64l6.56-7.2c6.48-11.216 2.944-25.903-7.951-32.911l-145.6-98.32c-.193-.144-.305-.32-.48-.415l-9.857-6.336a22.16 22.16 0 0 0-17.408-2.976c-5.744 1.36-10.912 4.992-14.193 10.592l-5.872 10.16c-.112.193-.096.385-.209.593L2.971 731.408c-6.496 11.168-2.945 25.872 7.952 32.896l9.12 3.424c10.88 6.992 24.256.64 30.752-10.543l47.904-88.975c29.376 204.72 205.104 357.823 413.28 357.823c208.063 0 383.92-153.088 413.36-357.712l47.84 88.864c6.496 11.184 19.888 17.535 30.768 10.543l9.12-3.424c10.896-7.024 14.448-21.728 7.952-32.896zM447.506 126.975c0-35.84 29.153-65.01 64.993-65.01c35.84 0 65.008 29.153 65.008 65.009s-29.152 65.009-65.009 65.009c-35.824-.016-64.992-29.168-64.992-65.008"
+    }
+
+]
